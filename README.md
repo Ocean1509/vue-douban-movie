@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -46,3 +47,6 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 使用vue+vue-router+vue-resource和vue-cli 脚手架以及webpack做成的一个电影网站
 >>>>>>> ceaeea26d2c00e8d4e3ee9b8473cd9b57d2d202a
 >>>>>>> 9228af0c4039c855cf3be1d28a3c1b30e91196a1
+=======
+# vue-douban-movie
+>>>>>>> a98d4738a782941f69768914cda8141f30c19bd5
